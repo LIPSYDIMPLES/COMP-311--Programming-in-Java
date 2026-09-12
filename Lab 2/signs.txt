@@ -1,4 +1,0 @@
-Positive total: 126292
-Positive count: 496
-Negative total: -125373
-Negative count: 502
