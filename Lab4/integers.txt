@@ -1,0 +1,3 @@
+Sum:792
+Smallest:0
+Largest:653
